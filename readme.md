@@ -1,6 +1,6 @@
 # Google Spreadsheets
 
-Example how to use [Google Spreadsheets(https://theoephraim.github.io/node-google-spreadsheet/#/)
+Example how to use [Google Spreadsheets](https://theoephraim.github.io/node-google-spreadsheet/#/)
 
 ## How to create a service account
 
