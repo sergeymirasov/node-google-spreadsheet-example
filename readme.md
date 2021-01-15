@@ -1,10 +1,10 @@
 # Google Spreadsheets
 
-Example how to use (Google Spreadsheets)[https://theoephraim.github.io/node-google-spreadsheet/#/]
+Example how to use [Google Spreadsheets(https://theoephraim.github.io/node-google-spreadsheet/#/)
 
 ## How to create a service account
 
-1. On page (Service Accounts)[https://console.cloud.google.com/projectselector2/iam-admin/serviceaccounts] click `Create project` and wait when the project is created
+1. On page [Service Accounts](https://console.cloud.google.com/projectselector2/iam-admin/serviceaccounts) click `Create project` and wait when the project is created
 2. Then press button `Create service account`
 3. On this page provide a name for the project. And choose the role of `Editor`. Then press `Done` button
 4. Then go to page in sidemenu: `APIs & Services` > `Dashborad`
